@@ -11,9 +11,11 @@
 
 - 🌱 I’m currently a **Fresh Graduate.**
 
-- 🌱 I’m currently learning **React and React Native.**
+- 🌱 I’m currently working as an internee **@Aivatek**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 🌱 I’m currently learning **React and React Native.**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
