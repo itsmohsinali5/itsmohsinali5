@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohsin Ali</h1>
-<h3 align="center">I'm a passionate Web & Android Developer from Pakistan.</h3>
+<h3 align="center">I'm a passionate Web & React Native Developer from Pakistan.</h3>
 
 <br/>
 
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently a **Fresh Graduate.**
 
-- 🌱 I’m currently working as an internee **@Aivatek**
+- 🌱 I’m currently working as a React Developer **@Aivatek**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🌱 I’m currently learning **React and React Native.**
+- 🌱 I’m currently working on **React and React Native.**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
