@@ -9,9 +9,9 @@
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently a **Fresh Graduate.**
+- 🌱 I have 2-3 years of experience in **React Native and React**
 
-- 🌱 I’m currently working as a React Developer **@Aivatek**
+- 🌱 I’m currently working as a React Native Developer **@Aivatek**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
